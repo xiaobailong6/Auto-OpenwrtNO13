@@ -11,5 +11,11 @@ svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-ssr-plus
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-openclash
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-passwall
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-clash
+git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
 git clone https://github.com/kenzok8/small package/small
 # git clone https://github.com/kenzok8/openwrt-packages package/kenzok8
+# git clone https://github.com/fw876/helloworld package/luci-app-ssr-plus
+# git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
+# git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
+# git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
+# git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
